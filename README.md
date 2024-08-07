@@ -1,10 +1,5 @@
 # pngme
 
-## Original tutorial
-
-https://jrdngr.github.io/pngme_book/introduction.html
-
-
 ## Running
 
 Compile
